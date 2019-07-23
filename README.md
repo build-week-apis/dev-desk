@@ -1,6 +1,6 @@
 # DevDesk Queue Back End Project
 
-**Here is a [LINK](http://dev-desk.surge.sh) Docs.**
+**Here is a [LINK](http://devdesk-queue.surge.sh) Docs.**
 
 ## Database Tables
 
